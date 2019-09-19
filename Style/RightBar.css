@@ -1,0 +1,32 @@
+#RightBar-Info{
+  margin: 10%;
+}
+
+#RightBar-Title{
+  width: 10%;
+  height: 10%;
+
+  font-size:30px;
+  letter-spacing: 10px;
+}
+
+#RightBar-Details{
+  margin-top: 10%;
+}
+
+
+.Details-Header{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 100%;
+
+  font-size: 25px;
+}
+
+.Details-Paragraph{
+  width: 100%;
+
+  font-size: 20px;
+
+  color: grey
+}
