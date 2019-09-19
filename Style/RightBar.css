@@ -4,14 +4,14 @@
 
 #RightBar-Title{
   width: 10%;
-  height: 10%;
 
   font-size:30px;
   letter-spacing: 10px;
 }
 
 #RightBar-Details{
-  margin-top: 10%;
+  margin-top: 2.5%;
+  margin-left: 5%;
 }
 
 

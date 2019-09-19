@@ -5,6 +5,8 @@
   margin: 0;
 
   display: flex;
+
+  overflow: hidden;
 }
 
 
@@ -14,10 +16,13 @@
   width: 30%;
   height: 100%;
 
-  font-family: RodusRound;
+  font-family: Kiona;
 
   background: linear-gradient(1800deg, rgba(149, 175, 212, 0.8) , rgba(146, 220, 224, 0.8));
   color: black;
+
+  box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
+
 }
 
 #App-RightBar{
@@ -53,4 +58,8 @@ body{
 @font-face {
     src: url("Fonts/RODUSreg100.otf");
     font-family: RodusReg;
+}
+@font-face {
+    src: url("Fonts/Kiona-Regular.ttf");
+    font-family: Kiona;
 }
